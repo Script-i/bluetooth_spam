@@ -5,7 +5,7 @@ BluetoothSerial SerialBT;
 
 // Nome do dispositivo que será spoofed  
 const char* deviceName = "Apple Watch"; // Nome do dispositivo que será apresentado  
-int victimCount = ; // Contador de vítimas
+int victimCount = 0; // Contador de vítimas
 
 void setup() {
     // Inicializa o M5StickC  
