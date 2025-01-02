@@ -3,7 +3,7 @@
 
 BluetoothSerial SerialBT;
 
-// Nome do dispositivo que será spoofed  
+// Nome do dispositivo que será spoofed   
 const char* deviceName = "Apple Watch"; // Nome do dispositivo que será apresentado  
 int victimCount = 0; // Contador de vítimas
 
